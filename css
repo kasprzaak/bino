@@ -1,0 +1,154 @@
+.top{
+    background: url('../img/bino_tlo1.png') no-repeat;
+    background-size: cover;
+}
+.msg-nav ul li{
+    list-style: none;
+    display: inline-block;
+    float: left;
+}
+.msg-nav a {
+    color: #f4f5f9;
+    font: 400 10px "Lato";
+    list-style: none;
+    display: block;
+    text-decoration: none;
+    padding: 22px 29px;
+    margin-top: 38px;
+}
+.msg-nav a:hover {
+    color: #e74c3c;
+    border-bottom: 1px solid #e74c3c;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.logo{
+    padding: 40px 0;
+    margin-left: 80px;
+}
+.wstep{
+    color: #f4f5f9;
+    font: 400 20px "Lato";
+    text-align: center;
+    padding-top: 110px;
+    letter-spacing: 0.5pt;
+    padding-bottom: 30px;
+}
+.nazwa{
+    color: #f4f5f9;
+    font: 900 52px "Lato";
+    text-align: center;
+    letter-spacing: 4.5pt;
+}
+.text{
+    color: #cbc6c0;
+    font: 400 14px "Lato";
+    text-align: center;
+    padding-top: 70px;
+    margin: 0 310px;
+}
+.button, .button2{
+	background :transparent;
+	display: inline-block;
+	cursor: pointer;
+	color: #fff;
+	font: 400 14px "Lato";
+	text-decoration: none;
+    border: 1px solid;
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 360px;
+    border-radius: 4px;
+    margin-bottom: 200px;
+}
+.button{
+    padding: 20px 46px;
+}
+.button2{
+    margin-left: 14px;
+    padding: 20px 68px;
+}
+.button:hover , .button2:hover{
+    background: #e74c3c;
+    color: #fff;
+    border-color: #e74c3c;
+    text-decoration: none;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.two{
+    text-align: center;
+}
+.logo2{
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.cos{
+    border-bottom: 1px solid #e6e7eb;
+}
+.design img{
+    border: 1px solid #e5e5e5;
+    padding: 22px;
+    text-align: center;
+    margin-bottom: 27px;
+}
+.naglowek{
+    color: #6a6a6a;
+    font: 600 14px "Lato";
+    text-align: center;
+    padding-bottom: 23px;
+}
+.tekst{
+    color: #999999;
+    font: 400 12px/20px "Lato";
+    text-align: center;
+    padding: 0 25px;
+}
+.my{
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.naglowek2{
+    color: #6a6a6a;
+    font: 400 36px "Lato";
+    border-left: 6px solid #e74c3c;
+    padding-left: 29px;
+}
+.tekst2{
+    color: #999999;
+    font: 300 14px/27px "Lato";
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.cos2{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+.history{
+    padding: 15px;
+}
+.button3{
+    background: #e74c3c;
+    color: #fff;
+    font: 400 14px "Lato";
+    padding: 22px 45px 22px 40px;
+    border-radius: 4px;
+    list-style: none;
+    text-decoration: none;
+}
+.button3:hover{
+    text-decoration: none;
+    cursor: pointer;
+    color: #9a9a9a;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
